@@ -1,6 +1,8 @@
 # pruebas-candidato(a)-web
 Propuestas de ejercicios de prueba a candidatos web para aplicar a Samaya Companion
 
+¿Dudas? Escríbenos a jesus.franco@samaya.mx
+
 ## Frontend
 
 ### Webapp (React) para Listar contenidos de API Pública
