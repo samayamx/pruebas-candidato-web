@@ -6,17 +6,17 @@
 
 #### Objetivo
 Conocer el estilo de trabajo autónomo de el/la candidato(a), se recomienda realizar un ejercicio que involucra una serie de componentes y conocimientos del lenguaje y framework elegido: 
--	enfocados en una tarea específica 
--	pero integrando servicios de terceros (nuestro principal requerimiento) 
--	y opciones de autenticación de usuarios 
--	permite validar: 
-  -	la integración de componentes o librerías propias o de terceros para evitar desarrollar funcionalidad desde cero 
-  - estilo de documentación de API 
-  - documentación de instrucciones para implementación (en lugar de README genérico del framework elegido, instrucciones específicas para este proyecto) 
-  - preferible pero no requerido, deployment de demostración público con el código fuente de candidato 
-  - atomicidad de los commits y/o Pull/Merge Request e información incluida en los mensajes de commit y PR/MR 
-  - uso de pruebas unitarias y/o integración 
-  - uso de CI/CD para el deployment de su código fuente. 
+-	enfocados en una tarea específica
+-	pero integrando servicios de terceros (nuestro principal requerimiento)
+-	y opciones de autenticación de usuarios
+-	permite validar:
+  -	la integración de componentes o librerías propias o de terceros para evitar desarrollar funcionalidad desde cero
+  -	estilo de documentación de API
+  - documentación de instrucciones para implementación (en lugar de README genérico del framework elegido, instrucciones específicas para este proyecto)
+  - preferible pero no requerido, deployment de demostración público con el código fuente de candidat@
+  - atomicidad de los commits y/o Pull/Merge Request e información incluida en los mensajes de commit y PR/MR
+  - uso de pruebas unitarias y/o integración
+  - uso de CI/CD para el deployment de su código fuente.
 
 ¿Dudas? Escribe al reclutador que te contactó para proponerte la prueba de inducción.
 
